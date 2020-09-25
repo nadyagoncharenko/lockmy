@@ -1,2 +1,0 @@
-# lockmy
-my_lock
